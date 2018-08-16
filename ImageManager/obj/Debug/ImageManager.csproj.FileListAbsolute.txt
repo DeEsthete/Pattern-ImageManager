@@ -1,0 +1,15 @@
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\bin\Debug\ImageManager.exe.config
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\bin\Debug\ImageManager.exe
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\bin\Debug\ImageManager.pdb
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\ImageManager.csprojAssemblyReference.cache
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\MainWindow.g.cs
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\App.g.cs
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\ImageManager_MarkupCompile.cache
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\ImageManager_MarkupCompile.lref
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\MainWindow.baml
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\ImageManager.g.resources
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\ImageManager.Properties.Resources.resources
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\ImageManager.csproj.GenerateResource.cache
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\ImageManager.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\ImageManager.exe
+C:\Users\TEMP.CORP.000\source\repos\ImageManager\ImageManager\obj\Debug\ImageManager.pdb
